@@ -1,0 +1,37 @@
+#video{
+    height:1000px;
+    width:100%;
+    padding:50px;
+    margin:50px;
+}
+
+.travel_maindiv{
+    border:2px solid lightslategrey;
+}
+
+.travel_maindiv img{
+    width:100%;
+}
+
+.travel_maindiv h5, .travel_maindiv p{
+    margin:20px;
+}
+
+.movie_head{
+    font-size:20px;
+    padding:6px 22px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+
+.movie_head i{
+    float:right;
+}
+
+.movie_text span{
+color:orange;
+}
+
+.movie_text img{
+    width:100%;
+}
